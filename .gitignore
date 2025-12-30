@@ -12,3 +12,9 @@ pyvenv.cfg
 **/__pycache__/
 test-main.py
 files
+
+# editor swap files
+*.swp
+*.swo
+*.swn
+*~
